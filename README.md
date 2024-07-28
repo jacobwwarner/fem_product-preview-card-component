@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: [View the challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-card---vanilla-css-and-grid-BL2-Mb6ReC)
+- Live Site URL: [See the solution live](https://jacobwwarner-fem-product-preview-card.netlify.app/)
 
 ## My process
 
